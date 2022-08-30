@@ -12,7 +12,7 @@ description: |
   Thanks for stopping by.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://halkilahti.fi" # the base hostname & protocol for your site
-twitter_username: jhalkilahti
+#twitter_username: jhalkilahti
 github_username:  Nucleotide
 
 # Build settings
