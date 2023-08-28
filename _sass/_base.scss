@@ -10,6 +10,7 @@ dl, dd, ol, ul, figure {
 
 
 
+
 /**
  * Basic styling
  */
@@ -23,6 +24,15 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    height: 100vh;
+}
+
+.home {
+  height: 50vh;
+  background-image: url('../images/bg_image.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
 }
 
 
